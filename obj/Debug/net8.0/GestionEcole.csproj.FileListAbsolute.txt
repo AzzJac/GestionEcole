@@ -1,0 +1,14 @@
+C:\Users\jacques\Documents\SN2\C#\GestionEcole\bin\Debug\net8.0\GestionEcole.exe
+C:\Users\jacques\Documents\SN2\C#\GestionEcole\bin\Debug\net8.0\GestionEcole.deps.json
+C:\Users\jacques\Documents\SN2\C#\GestionEcole\bin\Debug\net8.0\GestionEcole.runtimeconfig.json
+C:\Users\jacques\Documents\SN2\C#\GestionEcole\bin\Debug\net8.0\GestionEcole.dll
+C:\Users\jacques\Documents\SN2\C#\GestionEcole\bin\Debug\net8.0\GestionEcole.pdb
+C:\Users\jacques\Documents\SN2\C#\GestionEcole\obj\Debug\net8.0\GestionEcole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacques\Documents\SN2\C#\GestionEcole\obj\Debug\net8.0\GestionEcole.AssemblyInfoInputs.cache
+C:\Users\jacques\Documents\SN2\C#\GestionEcole\obj\Debug\net8.0\GestionEcole.AssemblyInfo.cs
+C:\Users\jacques\Documents\SN2\C#\GestionEcole\obj\Debug\net8.0\GestionEcole.csproj.CoreCompileInputs.cache
+C:\Users\jacques\Documents\SN2\C#\GestionEcole\obj\Debug\net8.0\GestionEcole.dll
+C:\Users\jacques\Documents\SN2\C#\GestionEcole\obj\Debug\net8.0\refint\GestionEcole.dll
+C:\Users\jacques\Documents\SN2\C#\GestionEcole\obj\Debug\net8.0\GestionEcole.pdb
+C:\Users\jacques\Documents\SN2\C#\GestionEcole\obj\Debug\net8.0\GestionEcole.genruntimeconfig.cache
+C:\Users\jacques\Documents\SN2\C#\GestionEcole\obj\Debug\net8.0\ref\GestionEcole.dll
